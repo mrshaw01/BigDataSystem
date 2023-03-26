@@ -1,0 +1,10 @@
+{
+    "number_of_threads": 200,
+    "waiting_time": 60,
+    "page_limit": 100,
+    "output_page_limit": 1000,
+    "proxies": {
+        "http": "http://lum-customer-c_d714b414-zone-test_tool:h23et05ysxze@zproxy.lum-superproxy.io:22225",
+        "https": "http://lum-customer-c_d714b414-zone-test_tool:h23et05ysxze@zproxy.lum-superproxy.io:22225"
+    }
+}
